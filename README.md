@@ -5,6 +5,9 @@ Ticketer is a web application that allows users to buy tickets and manage their 
 
 ## Deployment Link: https://ticketer-bay.vercel.app/
 
+
+## Video Link : https://youtu.be/irSsNRIJvDs
+
 ## Getting Started
 
 These instructions will help you set up and run the Ticketer app on your local machine.
